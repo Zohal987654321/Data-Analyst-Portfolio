@@ -10,4 +10,4 @@ Graduate Certificate Data Science(2023)
 
 ### PROJECT 1  BIG DATA ANALYSIS WITH PYTHON
 
-![Monkeypox Didtribution and Characteristics Analaysis from Wroldwide Data](Monkeypox project html file.html)
+![Monkeypox Distribution and Characteristics Analaysis from Wroldwide Data](Monkeypox project html file.html)
